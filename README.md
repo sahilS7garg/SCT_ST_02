@@ -1,4 +1,4 @@
-# SCT_ST_02import java.util.Random;
+# SCT_ST_02
 import java.util.Scanner;
 
 public class GuessingGame {
